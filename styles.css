@@ -6,6 +6,14 @@
   background-color: rgba(0, 0, 0, 0.87) !important;
 }
 
+.bg-grey {
+  background: rgba(255, 255, 255, 0.6);
+}
+
+.grey-text {
+  color: rgba(255, 255, 255, 0.6);
+}
+
 footer {
   height: auto;
   color: white;
